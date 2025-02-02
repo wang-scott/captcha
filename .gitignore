@@ -11,4 +11,3 @@ train_annotations.csv
 
 # PyTorch state dicts
 *.pt
-env
